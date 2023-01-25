@@ -15,6 +15,8 @@ Video: https://sci.esa.int/web/cassini-huygens/-/39218-huygens-descent-to-titan-
 
 # Panoramas/mosaics:
 
+## Flat
+
 There are [12 mosaics available](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/MOSAICS/MOSIACS_PNG/); the file names matche with ground resolution, e.g. 4.PNG has a 4m/pixel resolution:
 
 - 1.PNG
@@ -31,6 +33,8 @@ There are [12 mosaics available](https://archives.esac.esa.int/psa/ftp/CASSINI-H
 - 60.PNG
 
 The projection used for these mosaics is currently unknown.
+
+## "Posters"
 
 There are also some "posters" available in this folder; poster "C" contains 6 stereographic fisheye images taken from different altitudes: 150 km, 20km, 6km, 2km, 0.6km, 0.2km; FOV unknown (full size image [here](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/POSTERS/POSTER_C.JPG)):
 
@@ -68,6 +72,22 @@ of a man's height.
 Poster G - When printed on letter sized paper this poster
 show's the size of the 'rocks' on Titan's surface in their
 true size.
+
+### Converting posters
+
+Cropping out the raw fisheye from poster_E:
+
+    ffmpeg    -i POSTER_E.jpg    -vf "crop=2800:2800:50:200"    -y  POSTER_E-mod(5km_fisheye)2.jpg
+
+Cropping out the raw fisheye images from poster_C:   
+
+- Poster C1:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:126:236"    -y  POSTER_C_x.jpg
+- Poster C2:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:1453:236"    -y  POSTER_C_x.jpg
+- Poster C3:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:126:1386"    -y  POSTER_C_x.jpg
+- Poster C4:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:1453:1386"    -y  POSTER_C_x.jpg
+- Poster C5:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:126:2537"    -y  POSTER_C_x.jpg
+- Poster C6:  ffmpeg    -i POSTER_C.jpg    -vf "crop=1301:1121:1453:2537"    -y  POSTER_C_x.jpg
+
 
 # Huygens cameras
 
