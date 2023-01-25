@@ -36,6 +36,7 @@ There are also some "posters" available in this folder; poster "C" contains 6 st
 
 ![image](https://user-images.githubusercontent.com/1620953/214520292-b3a77897-5aff-4b14-a3fd-28b921fffc85.png)
 
+![immagine](https://user-images.githubusercontent.com/1620953/214538248-4a813780-cdb0-400f-8097-2f3da2605655.png)
 
 
 # Huygens cameras
