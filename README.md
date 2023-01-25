@@ -90,6 +90,11 @@ Details about the camera optics:
 ![image](https://user-images.githubusercontent.com/1620953/214523232-13005e4c-4b84-4fc2-9243-61cce64cb048.png)
 
 
+## Some data
+
+- Titan radius: 2575 km
+- Descent images avalable: 236 before touchdown
+
 # Data folders
 - [Main](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/)
 - [Full mosaics](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/MOSAICS/MOSIACS_PNG/)
