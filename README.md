@@ -13,7 +13,7 @@ into this?
 
 # Panoramas/mosaics:
 
-There are 12 mosaics available; the file name matches with ground resolution, e.g. 4.PNG has a 4m/pixel resolution:
+There are [12 mosaics available](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/MOSAICS/MOSIACS_PNG/); the file names matche with ground resolution, e.g. 4.PNG has a 4m/pixel resolution:
 
 - 1.PNG
 - 2.PNG
@@ -27,6 +27,14 @@ There are 12 mosaics available; the file name matches with ground resolution, e.
 - 40.PNG
 - 50.PNG
 - 60.PNG
+
+The projection used for these mosaics is currently unknown.
+
+There are also some "posters" available in this folder; poster "C" contains 6 stereographic fisheye images taken from different altitudes: 150 km, 20km, 6km, 2km, 0.6km, 0.2km; FOV unknown (full size image [here](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/POSTERS/POSTER_C.JPG)):
+
+![image](https://user-images.githubusercontent.com/1620953/214520292-b3a77897-5aff-4b14-a3fd-28b921fffc85.png)
+
+
 
 # Huygens cameras
 
