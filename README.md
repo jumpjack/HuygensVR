@@ -25,8 +25,8 @@ There are [12 mosaics available](https://archives.esac.esa.int/psa/ftp/CASSINI-H
 - 10.PNG
 - 15.PNG
 - 20.PNG
-- 30.PNG
-- 40.PNG
+- 30.PNG - referred to as "18.75 × 24.0 km" in [link](https://www.mps.mpg.de/phd/theses/investigating-the-surface-of-titan-with-the-descent-imager-spectral-radiometer-onboard-huygens.pdf) (fig 1.11, p.23)
+- 40.PNG - referred to as "62.5 × 80.0 km" in above link (fig. 1.10, p.22)
 - 50.PNG
 - 60.PNG
 
