@@ -11,6 +11,39 @@ into this?
 
 ![image](https://user-images.githubusercontent.com/1620953/214508571-1608d290-8191-4bbd-aa4d-99cd73fb7ed3.png)
 
+# Panoramas/mosaics:
+
+There are 12 mosaics available; the file name matches with ground resolution, e.g. 4.PNG has a 4m/pixel resolution:
+
+- 1.PNG
+- 2.PNG
+- 3.PNG
+- 4.PNG
+- 5.PNG
+- 10.PNG
+- 15.PNG
+- 20.PNG
+- 30.PNG
+- 40.PNG
+- 50.PNG
+- 60.PNG
+
+# Huygens cameras
+
+Panoramas were created from images taken from 3 cameras: HRI, LRI, SLI; their FOVs are represented in picture below:
+
+![image](https://user-images.githubusercontent.com/1620953/214509962-9c37b7c6-9592-4bfb-a257-8d8c25cbcdc0.png)
+
+Numerically:
+
+![image](https://user-images.githubusercontent.com/1620953/214510628-50ac2deb-0833-49fd-ad6d-e5bc37b4471f.png)
+
+![image](https://user-images.githubusercontent.com/1620953/214511341-420db227-4fec-48b8-90f7-1706f7bd570d.png)
+
+There is also a visual imager pointed to the sky, the Solar Aureole imager (SA):
+
+![image](https://user-images.githubusercontent.com/1620953/214511724-282fddda-5f2c-4c33-b8e4-58f4e5dd1036.png)
+
 
 # Data folders
 - [Main](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/)
