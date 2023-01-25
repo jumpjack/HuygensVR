@@ -11,6 +11,8 @@ into this?
 
 ![image](https://user-images.githubusercontent.com/1620953/214508571-1608d290-8191-4bbd-aa4d-99cd73fb7ed3.png)
 
+Video: https://sci.esa.int/web/cassini-huygens/-/39218-huygens-descent-to-titan-surface
+
 # Panoramas/mosaics:
 
 There are [12 mosaics available](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/EXTRAS/MOSAICS/MOSIACS_PNG/); the file names matche with ground resolution, e.g. 4.PNG has a 4m/pixel resolution:
@@ -51,6 +53,10 @@ Numerically:
 There is also a visual imager pointed to the sky, the Solar Aureole imager (SA):
 
 ![image](https://user-images.githubusercontent.com/1620953/214511724-282fddda-5f2c-4c33-b8e4-58f4e5dd1036.png)
+
+Details about the camera optics:
+
+![image](https://user-images.githubusercontent.com/1620953/214523232-13005e4c-4b84-4fc2-9243-61cce64cb048.png)
 
 
 # Data folders
