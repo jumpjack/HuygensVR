@@ -38,6 +38,36 @@ There are also some "posters" available in this folder; poster "C" contains 6 st
 
 ![immagine](https://user-images.githubusercontent.com/1620953/214538248-4a813780-cdb0-400f-8097-2f3da2605655.png)
 
+Descriptions:
+
+Poster A - View's from the probe, in the 4 Cardinal
+Directions (N,S,E,W) at 5 different altitudes above Titan's
+surface.
+
+Poster B - Mercator Projection of the view from the Huygens
+probe at 4 different altitudes.
+
+Poster C - Nadir, Stereographic (fish-eye) view of Titan's
+surface from 6 different altitudes.  Shows the haze layer at
+20-21 Km.
+
+Poster D - Mercator projection of Huygens probe view from 10
+Km Altitude.
+
+Poster E - Distorted fish-eye projection (in nadir
+direction) of the DISR images when the Huygens Probe was 5
+Km above Titan's surface.
+
+Poster F - Composite view of DISR's images taken while the
+Huygens Probe was setting on Titan's surface, juxtaposed
+with a similarly scaled picture taken on the Moon's surface.
+Objects near the center of the picture are roughly the size
+of a man's foot while objects at the horizon are a fraction
+of a man's height.
+
+Poster G - When printed on letter sized paper this poster
+show's the size of the 'rocks' on Titan's surface in their
+true size.
 
 # Huygens cameras
 
