@@ -7,9 +7,11 @@ How to turn this:
 ![image](https://user-images.githubusercontent.com/1620953/214508603-b539e178-d033-45e8-85cc-63eee6f3d0df.png)
 
 
-into this?
+...into this...
 
 ![image](https://user-images.githubusercontent.com/1620953/214508571-1608d290-8191-4bbd-aa4d-99cd73fb7ed3.png)
+
+... and eventually into an equirectangular projection to be viewd in VR viewers?
 
 Video: https://sci.esa.int/web/cassini-huygens/-/39218-huygens-descent-to-titan-surface
 
@@ -123,4 +125,9 @@ Details about the camera optics:
 
 - [THE DESCENT IMAGER/SPECTRAL RADIOMETER (DISR) EXPERIMENT ON THE HUYGENS ENTRY PROBE OF TITAN (M. G. TOMASKO)](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/DOCUMENT/DISR_SUPPORTING_DOCUMENTS/SPACE_SCIENCE_REVIEW/SSR.PDF)  ([local mirror](https://github.com/jumpjack/HuygensVR/blob/main/THE%20DESCENT%20IMAGER-SPECTRAL%20RADIOMETER%20(DISR)%20EXPERIMENT%20ON%20THE%20HUYGENS%20ENTRY%20PROBE%20OF%20TITAN.PDF))
 - [Rain, winds and haze during the Huygens probe’s descent to Titan’s surface (M. G. Tomasko)](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/DOCUMENT/DISR_SUPPORTING_DOCUMENTS/SPACE_SCIENCE_REVIEW/SSR.PDF) ([External mirror](https://www.academia.edu/en/18515156/Rain_winds_and_haze_during_the_Huygens_probes_descent_to_Titans_surface)) ([local mirror](https://github.com/jumpjack/HuygensVR/blob/main/Rain_winds_and_haze_during_the_Huygens_p.pdf))
+- [NEW DIGITAL TERRAIN MODEL OF THE HUYGENS LANDING SITE](https://www.cosmos.esa.int/documents/772136/977578/PUG-IPGP-Titan.pdf/888eec57-cd40-44dc-58b5-26cd8dd3587b?t=1620900122478)
+- [Data Archive Users’ Guide for the Descent Imager and Spectral Radiometer (DISR) on the Huygens Probe](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Huygens/DISR_DATA_USERS_GUIDE_2.PDF) (contains many details on data folder contents)
 
+# Links
+
+- ftp://psa.esac.esa.int/pub/mirror/CASSINI-HUYGENS/DISR/
