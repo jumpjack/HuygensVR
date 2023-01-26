@@ -133,5 +133,8 @@ Details about the camera optics:
 # Links
 
 - ftp://psa.esac.esa.int/pub/mirror/CASSINI-HUYGENS/DISR/
-- https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.
+- https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1
+- http://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/
 - https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Huygens/
+- https://atmos.nmsu.edu/PDS/data/hpdisr_0001/
+- https://atmos.nmsu.edu/PDS/data/hpdisr_0001V1/
