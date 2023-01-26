@@ -127,6 +127,7 @@ Details about the camera optics:
 - [Rain, winds and haze during the Huygens probe’s descent to Titan’s surface (M. G. Tomasko)](https://archives.esac.esa.int/psa/ftp/CASSINI-HUYGENS/DISR/HP-SSA-DISR-2-3-EDR-RDR-V1.3/DOCUMENT/DISR_SUPPORTING_DOCUMENTS/SPACE_SCIENCE_REVIEW/SSR.PDF) ([External mirror](https://www.academia.edu/en/18515156/Rain_winds_and_haze_during_the_Huygens_probes_descent_to_Titans_surface)) ([local mirror](https://github.com/jumpjack/HuygensVR/blob/main/Rain_winds_and_haze_during_the_Huygens_p.pdf))
 - [NEW DIGITAL TERRAIN MODEL OF THE HUYGENS LANDING SITE](https://www.cosmos.esa.int/documents/772136/977578/PUG-IPGP-Titan.pdf/888eec57-cd40-44dc-58b5-26cd8dd3587b?t=1620900122478)
 - [Data Archive Users’ Guide for the Descent Imager and Spectral Radiometer (DISR) on the Huygens Probe](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Huygens/DISR_DATA_USERS_GUIDE_2.PDF) (contains many details on data folder contents)
+- [Investigating the Surface of Titan with the Descent Imager/Spectral Radiometer onboard Huygens](https://www.mps.mpg.de/phd/theses/investigating-the-surface-of-titan-with-the-descent-imager-spectral-radiometer-onboard-huygens.pdf)
 
 # Links
 
