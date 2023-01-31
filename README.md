@@ -130,6 +130,12 @@ Details about the camera optics:
 - [Appendixes](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Huygens/DISR_DATA_USERS_GUIDE_2.PDF) of "Data Archive Users’ Guide" (all tabular data from the mission)
 - [Investigating the Surface of Titan with the Descent Imager/Spectral Radiometer onboard Huygens](https://www.mps.mpg.de/phd/theses/investigating-the-surface-of-titan-with-the-descent-imager-spectral-radiometer-onboard-huygens.pdf)
 
+# Software
+- Panorama viewer javascript library: https://photo-sphere-viewer.js.org/
+- Images stitcher:
+     - [Enblend](https://enblend.sourceforge.net/index.htm)
+     - [Multiblend](https://horman.net/multiblend/)
+
 # Links
 
 - ftp://psa.esac.esa.int/pub/mirror/CASSINI-HUYGENS/DISR/
