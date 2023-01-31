@@ -131,7 +131,7 @@ Details about the camera optics:
 - [Investigating the Surface of Titan with the Descent Imager/Spectral Radiometer onboard Huygens](https://www.mps.mpg.de/phd/theses/investigating-the-surface-of-titan-with-the-descent-imager-spectral-radiometer-onboard-huygens.pdf)
 
 # Software
-- Panorama viewer javascript library: https://photo-sphere-viewer.js.org/
+- Panorama viewer javascript library: https://photo-sphere-viewer.js.org/  ([source](https://github.com/mistic100/Photo-Sphere-Viewer))
 - Images stitcher:
      - [Enblend](https://enblend.sourceforge.net/index.htm)
      - [Multiblend](https://horman.net/multiblend/)
